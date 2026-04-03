@@ -242,11 +242,6 @@ Source: MIT
 License: https://github.com/mattn/go-isatty/blob/v0.0.20/LICENSE
 Source: MIT
 
-### github.com/mattn/go-pointer
-
-License: https://github.com/mattn/go-pointer/blob/v0.0.1/LICENSE
-Source: MIT
-
 ### github.com/mattn/go-sqlite3
 
 License: https://github.com/mattn/go-sqlite3/blob/v1.14.37/LICENSE
@@ -414,7 +409,7 @@ Source: LGPL-3.0
 
 ### github.com/tphakala/go-tflite
 
-License: https://github.com/tphakala/go-tflite/blob/v0.2.1/LICENSE
+License: https://github.com/tphakala/go-tflite/blob/aedbd0bca261/LICENSE
 Source: MIT
 
 ### github.com/tphakala/simd
@@ -514,7 +509,7 @@ Source: BSD-3-Clause
 
 ### gonum.org/v1/gonum/dsp/fourier
 
-License: Unknown
+License: https://github.com/gonum/gonum/blob/v0.17.0/LICENSE
 Source: BSD-3-Clause
 
 ### google.golang.org/api
